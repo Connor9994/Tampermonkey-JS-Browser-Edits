@@ -72,4 +72,5 @@ Completely overhaul Saleforce's upload Images process. Allows user to CTRL-V pic
 Send out Default NOC emails for basic issues (OSIsoft via Salesforce)
 
 ## TSOPS-
+
 Customizeable sliders for internal queue pages (Allowed users to use vertical monitors or weird aspect resolutions for custom monitors) (OSIsoft via Internal)
