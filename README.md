@@ -36,7 +36,8 @@ Spoof Rewards Page for Local Shops
 
 ## OMNI Case Opener
 
-Automatically views the case-description for incoming OMNI cases (https://trailhead.salesforce.com/content/learn/modules/omni-channel-readiness-and-digital-engagement/defining-omni-channel) (OSIsoft via Salesforce)
+Automatically views the case-description for incoming OMNI cases 
+(OSIsoft via Salesforce) (https://trailhead.salesforce.com/content/learn/modules/omni-channel-readiness-and-digital-engagement/defining-omni-channel)
 
 ## OMNI Grabber
 
