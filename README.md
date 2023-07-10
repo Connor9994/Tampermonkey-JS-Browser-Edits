@@ -1,7 +1,6 @@
 # Tampermonkey-JS-Browser-Edits
 
 Article Changer-
-
 Changes all cases under Article A (BadID) to Article B (ArticleID) (OSIsoft via Salesforce)
 
 Available User-
