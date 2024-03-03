@@ -2,6 +2,8 @@
 ## Article Changer
 Changes all cases under Article A (BadID) to Article B (ArticleID) (OSIsoft via Salesforce)
 
+![output2](https://github.com/Connor9994/Tampermonkey-JS-Browser-Edits/assets/39637206/96c7b1d8-45ff-4e7e-83ad-a7e0a04f1227)
+
 ## Available User
 
 Prevent User from going AFK (OSIsoft via In-house Systems)
