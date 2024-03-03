@@ -32,10 +32,6 @@ Bulk Closes NOC Cases (24/7 maintenance sometimes required closing out 10+ cases
 
 Remove NOC "Closed" Button to prevent other Engineers from throwing NOC cases into the void (OSIsoft via Salesforce)
 
-## Nothing Bad
-
-Spoof Rewards Page for Local Shops 
-
 ## OMNI Case Opener
 
 Automatically views the case-description for incoming OMNI cases 
@@ -64,6 +60,10 @@ Adds Documents Link on Product pages for VERY quick reference material (OSIsoft 
 ## Queue Logger (Before Direct Query in "EOS/Lunch")
 
 Grabs EOS, Staleness, and Case load to log patterns in the queue
+
+## Rewards Page Spoof
+
+Spoof Rewards Page for Local Shops 
 
 ## Screenshots
 
