@@ -74,3 +74,5 @@ Send out Default NOC emails for basic issues (OSIsoft via Salesforce)
 ## TSOPS
 
 Customizeable sliders for internal queue pages (Allowed users to use vertical monitors or weird aspect resolutions for custom monitors) (OSIsoft via Internal)
+
+![image](https://github.com/Connor9994/Tampermonkey-JS-Browser-Edits/assets/39637206/13377021-376b-46e6-8584-b8e616a80248)
